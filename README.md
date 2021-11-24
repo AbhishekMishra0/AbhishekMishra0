@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbhishekMishra
-- 👀 I’m interested in Learning new programming languages
+- 👀 I’m interested in Learning programming languages
 - 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
